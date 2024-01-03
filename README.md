@@ -9,3 +9,14 @@
 только через вхождение в администрирование **Django**.
 
 Проект очень простой и создавался только ради практики моих навыков.
+
+## Translation
+
+This is a very simple blog site made with **Django**. 
+On this site you have an opportunity to look through the posts,
+that site is taking directly from the database.
+
+You ***cannot*** create posts in this project though - 
+the only way to add new posts is to login in **Django** administration and do it there.
+
+This project is severely simple, and was created only for practice purposes.
